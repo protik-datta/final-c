@@ -1,0 +1,4 @@
+Hello, my name is Protik.
+I am learning C programming.
+I am practicing File I/O.
+This is my source file.
